@@ -1,2 +1,3 @@
 # test_repo
-Test repository created fot Coursera 
+Test repository created for Coursera 
+This is a test repository created for practice
